@@ -1,0 +1,23 @@
+body{
+  background-color: grey;
+}
+
+div[class*="col-md"]{
+  background-color: white;
+}
+#bleu{
+  background-color: blue;
+  height: 200px;
+}
+.carousel-inner>.item>img{
+  overflow: hidden;
+  height: 500px;
+}
+.btn{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30%;
+}
+.car{
+  padding: 0px;
+}
